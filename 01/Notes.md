@@ -6,6 +6,7 @@
 	- Centralized VCS
 		- TFS, VSTS, SVN
 # Git
+#added new 
 ## Basic Git and commands
 - `cd 'path'` -> change directory
 - `cd ..` -> moves a level up
