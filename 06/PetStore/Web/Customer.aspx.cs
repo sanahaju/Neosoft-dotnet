@@ -90,7 +90,7 @@ namespace Web
         protected void Button1_Click(object sender, EventArgs e)
         {
           
-                string Constring = ConfigurationManager.ConnectionStrings["CustomerDbConnectionString"].ConnectionString;
+                string Constring = ConfigurationManager.ConnectionStrings["PetDbConnectionString"].ConnectionString;
                 Customer_Registration(Constring);
                 Customer_Login(Constring);
             
